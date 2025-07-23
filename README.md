@@ -53,9 +53,9 @@ Use the slicer filters to change month/year.
 
 Navigate across pages: Monthly View, Consolidated View, Patient Details, Key Takeaways.
 
-## Dashboard
+## 📷 Dashboard
 
-📷 <img width="894" height="548" alt="Capture" src="https://github.com/user-attachments/assets/88b12827-18ec-422c-a147-8790b4f8d51c" />
+ <img width="894" height="548" alt="Capture" src="https://github.com/user-attachments/assets/88b12827-18ec-422c-a147-8790b4f8d51c" />
 
 
 📬 9058966769
