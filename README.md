@@ -1,2 +1,6 @@
-# Health-Care-Dashboard
-This interactive Power BI dashboard provides a comprehensive monthly analysis of emergency room performance for a healthcare facility. The July 2023 view includes key metrics related to patient flow, satisfaction, and operational efficiency.
+# 🏥 Hospital Emergency Room Dashboard
+
+## 📊 Project Overview
+
+This interactive Power BI dashboard provides key insights into emergency room operations for the month of **July 2023**. It is designed to help healthcare managers, analysts, and hospital administrators monitor performance metrics, improve service delivery, and make data-driven decisions.
+
