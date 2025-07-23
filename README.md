@@ -57,6 +57,22 @@ Navigate across pages: Monthly View, Consolidated View, Patient Details, Key Tak
 
  <img width="894" height="548" alt="Capture" src="https://github.com/user-attachments/assets/88b12827-18ec-422c-a147-8790b4f8d51c" />
 
+ ## 📌 Project Insights
+
+- 🧍‍♂️ **Patient Volume**: A total of **464** patients visited the emergency room in **July 2023**.
+- ⏱️ **Wait Time Analysis**: The **average wait time** was **34.7 minutes**, with **57.54%** of patients seen within 30 minutes — meeting the hospital's target.
+- 🙋‍♀️ **Gender Distribution**: The gender ratio was fairly balanced — **50.6% female** and **49.1% male**.
+- 📅 **Peak Days & Hours**:
+  - Busiest days: **Monday (82 patients)** and **Saturday (73 patients)**.
+  - Peak hours: Mostly between **12 PM to 4 PM**.
+- 🧓 **Age Demographics**: Majority of patients were in the **20–29** and **30–39** age groups.
+- 🏥 **Referrals**: The **General Practice department** accounted for the most referrals (**280 patients**).
+- 🌍 **Racial Insights**: Majority of patients identified as **White (141)** and **African American (102)**.
+
+## ✅ Final Conclusion
+
+This Hospital Emergency Room Dashboard offers a comprehensive snapshot of monthly patient activity and operational efficiency. It highlights strong performance in **patient satisfaction** and **timely service delivery**, with room to improve wait times and optimize resource allocation during peak hours. The dashboard enables healthcare administrators to make data-informed decisions, improve patient care, and streamline emergency room operations.
+
 📬 9058966769
 
 Created by Adnan Raza Khan
